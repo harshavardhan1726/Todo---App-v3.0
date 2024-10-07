@@ -5,3 +5,5 @@
 ![Welcome Page](./welcomePage.png)
 
 ![Todo Page](./Todo_page.png)
+
+![Delete Todo](./deleteTodo.png)
